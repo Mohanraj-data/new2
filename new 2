@@ -1,0 +1,4 @@
+
+select * from employees;
+select fname from employees1 where job='clerk'
+group by fname
